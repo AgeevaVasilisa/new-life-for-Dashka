@@ -4,8 +4,8 @@
 int main() {
     int a = 10, b = 5;
 
-    std::cout << "Sum: " << add(a, b) << std::endl;
-    std::cout << "Difference: " << subtract(a, b) << std::endl;
+    std::cout << "Результат сложения: " << add(a, b) << std::endl;
+    std::cout << "Результат вычитания: " << subtract(a, b) << std::endl;
 
     return 0;
 }
