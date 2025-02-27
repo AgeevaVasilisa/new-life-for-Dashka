@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\79296\source\repos\new-life-for-Dashka\build\CMakeFiles\333c3571c60e79f7e2007b122385e216\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AA312C3E-9153-3478-B663-8131C2995168}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

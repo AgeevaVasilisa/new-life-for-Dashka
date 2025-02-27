@@ -1,0 +1,10 @@
+^C:\USERS\79296\SOURCE\REPOS\NEW-LIFE-FOR-DASHKA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/79296/source/repos/new-life-for-Dashka -BC:/Users/79296/source/repos/new-life-for-Dashka/build --check-stamp-file C:/Users/79296/source/repos/new-life-for-Dashka/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

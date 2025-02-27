@@ -1,0 +1,3 @@
+C:/Users/79296/source/repos/new-life-for-Dashka/build/CMakeFiles/new-life-for-Dashka.dir
+C:/Users/79296/source/repos/new-life-for-Dashka/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/79296/source/repos/new-life-for-Dashka/build/CMakeFiles/ZERO_CHECK.dir
