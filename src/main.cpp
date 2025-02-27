@@ -6,6 +6,6 @@ int main() {
 
     std::cout << "Sum: " << add(a, b) << std::endl;
     std::cout << "Difference: " << subtract(a, b) << std::endl;
-
+    std::cout << "Multiplication result: " << multiply(a, b) << std::endl;
     return 0;
 }
